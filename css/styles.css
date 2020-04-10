@@ -1,0 +1,233 @@
+body{
+  margin: 0;
+  position:relative;
+  text-align: center;
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-size: 18px;
+}
+
+h1{
+  font-weight: 600;
+  color: #393e46;
+}
+
+h2{
+  font-weight: bolder;
+  color: #393e46;
+}
+
+h3{
+  font-weight: bold;
+  color: #393e46;
+}
+
+p{
+  font-weight: 400;
+  color: #8aae92;
+}
+
+a{
+  color:black;
+  text-decoration:none;
+}
+
+a:hover{
+  color:#889e81;
+}
+
+ul{
+  list-style-type: none;
+  margin:0;
+  padding:0;
+}
+
+li{
+  display: inline;
+  padding: 20px 10px;
+}
+
+.top-container{
+  width: 40%;
+  margin:0 auto 40px auto;
+
+}
+
+.wallpaper{
+  position: absolute;
+  left:0;
+  top:0;
+  width:1349px;
+}
+
+.logo{
+  margin:140px auto 30px auto;
+}
+
+.iOS-download {
+	background-color:#29baa2;
+	border-radius:20px;
+	border:1px solid #19b7c2;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:18px;
+	font-weight:normal;
+	padding:12px 24px;
+	text-decoration:none;
+}
+.iOS-download:hover {
+	background-color:#69c2be;
+  color:white;
+}
+.iOS-download:active {
+	position:relative;
+	top:1px;
+}
+
+.Mac-download {
+	background-color:#3a71d1;
+	border-radius:20px;
+	border:1px solid #6c7b95;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:18px;
+	font-weight:normal;
+	padding:12px 24px;
+	text-decoration:none;
+}
+.Mac-download:hover {
+	background-color:#96d1c7;
+  color: white;
+}
+.Mac-download:active {
+	position:relative;
+	top:1px;
+}
+
+.btn{
+  padding:5%;
+}
+
+.part1{
+  width:50%;
+  margin:150px auto 100px auto;
+}
+
+.comp-img{
+  width:45%;
+  float: left;
+  margin-left: 50px;
+}
+
+.content{
+  width:25%;
+  display: inline-block;
+  text-align: left;
+}
+
+.part3{
+  padding-top:200px;
+}
+
+.content2{
+  width:70%;
+  margin:70px auto 0 auto;
+}
+
+.device{
+  width:60%;
+  margin:60px auto 0 auto;
+}
+
+.part4{
+  padding:40px;
+}
+.row{
+  display: flex;
+  flex-direction: row;
+  padding: 80px;
+}
+
+.left{
+ margin-left: 30px;
+ margin-right: 10px;
+ width:30%;
+}
+
+.middle{
+  margin-left: 10px;
+  margin-right: 10px;
+  width:30%;
+}
+
+.right{
+  margin-left: 10px;
+  margin-right: 30px;
+  width:30%;
+}
+
+.company{
+  padding:0 10% 10% 5%;
+}
+
+.col{
+  margin-right:40px;
+  margin-left: 40px;
+}
+
+.part5{
+  width:50%;
+  margin:60px auto 150px auto;
+}
+
+.part6{
+  background-color: #e5e4cc;
+}
+
+.part6{
+  font-size: 16px;
+}
+.logo1{
+  width:50px;
+  position: absolute;
+  left:150px;
+  bottom:100px;
+}
+
+.column{
+  display: flex;
+  flex-direction: row;
+  padding-left:250px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.col1{
+  margin:30px;
+  width:8%;
+  line-height: 3;
+}
+
+.col2{
+  margin:30px;
+  width:12%;
+  line-height: 3;
+}
+
+.col3{
+  margin:30px;
+  width:12%;
+  line-height: 3;
+}
+
+.media{
+  width:20%;
+  margin: 110px 50px 0 auto;
+}
+
+.attribution{
+  font-size: 14px;
+}
